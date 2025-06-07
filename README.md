@@ -1,35 +1,74 @@
 ## Hello there 👋
 
-### 🧪 Testing
+I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background in testing web and API applications using modern tools and frameworks.
+
+---
+
+## 🧪 Testing Tools
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Gatling](https://img.shields.io/badge/Gatling-FF7139?style=for-the-badge&logo=scala&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![qTest](https://img.shields.io/badge/qTest-0052CC?style=for-the-badge&logo=testcafe&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-ef476f?style=for-the-badge&logo=allure&logoColor=white)
 
-### 💻 Coding
+---
+
+## 💻 Programming & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-f0ad4e?style=for-the-badge&logo=java&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-ED1C24?style=for-the-badge&logo=java&logoColor=white)
+![Jackson](https://img.shields.io/badge/Jackson-FFB300?style=for-the-badge&logo=json&logoColor=white)
 
-### 🔧 CI/CD & Tools
+---
+
+## 🗃️ Databases & Query
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## ⚙️ DevOps / CI-CD / Tools
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+## 🔧 Version Control & Collaboration
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!--
-**BarneyBoston/BarneyBoston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Testing Types
+
+`Functional Testing` `Regression Testing` `Performance Testing`  
+`System Testing` `Integration Testing` `Confirmation Testing`
+
+---
+
+## 📌 Certificates
+
+- ✅ ISTQB Certified Tester – Foundation Level
+- 🧪 RestAssured with Java
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-kosto%C5%84-51b8a818a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarneyBoston)
+📧 Email: koston.bartosz@gmail.com  
+📞 Phone: +48 780 169 971
