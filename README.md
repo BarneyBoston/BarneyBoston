@@ -12,6 +12,7 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![qTest](https://img.shields.io/badge/qTest-0052CC?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-ef476f?style=for-the-badge&logo=allure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
