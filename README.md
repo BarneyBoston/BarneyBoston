@@ -24,6 +24,8 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 ![Lombok](https://img.shields.io/badge/Lombok-ED1C24?style=for-the-badge&logo=java&logoColor=white)
 ![Jackson](https://img.shields.io/badge/Jackson-FFB300?style=for-the-badge&logo=json&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![AssertJ](https://img.shields.io/badge/AssertJ-8DD6F9?style=for-the-badge&logo=java&logoColor=white)
+![SLF4J](https://img.shields.io/badge/SLF4J-F7B93E?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
