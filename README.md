@@ -61,9 +61,6 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-kosto%C5%84-51b8a818a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarneyBoston)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-koston/)
 
 📧 Email: koston.bartosz@gmail.com  
-
-📞 Phone: +48 780 169 971
