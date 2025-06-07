@@ -4,7 +4,7 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ---
 
-## 🧪 Testing Tools
+## Testing Tools
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
@@ -15,7 +15,7 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ---
 
-## 💻 Programming & Frameworks
+## Programming & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
@@ -26,7 +26,7 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ---
 
-## 🗃️ Databases & Query
+## Databases & Query
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -34,7 +34,7 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ---
 
-## ⚙️ DevOps / CI-CD / Tools
+## DevOps / CI-CD / Tools
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,7 +42,7 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ---
 
-## 🔧 Version Control & Collaboration
+## Version Control & Collaboration
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -52,23 +52,17 @@ I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background
 
 ---
 
-## 📊 Testing Types
-
-`Functional Testing` `Regression Testing` `Performance Testing`  
-`System Testing` `Integration Testing` `Confirmation Testing`
-
----
-
-## 📌 Certificates
+## Certificates
 
 - ✅ ISTQB Certified Tester – Foundation Level
-- 🧪 RestAssured with Java
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-kosto%C5%84-51b8a818a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarneyBoston)
+
 📧 Email: koston.bartosz@gmail.com  
+
 📞 Phone: +48 780 169 971
