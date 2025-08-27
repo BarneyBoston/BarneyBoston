@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a **Test Automation Engineer** from Poland 🇵🇱 with a strong background in testing web and API applications using modern tools and frameworks.
+I'm a **Software Engineer in Test** from Poland 🇵🇱 with a strong background in testing web and API applications using modern tools and frameworks.
 
 Below you will find my **Technical Stack** as well as **repositories with my test automation frameworks** created from scratch by me.
 
